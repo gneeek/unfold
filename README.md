@@ -14,4 +14,4 @@ This repository is published alongside a parent project - see [gneeek/tdf26](htt
 
 ## License
 
-Apache 2.0. See [LICENSE](LICENSE).
+Content is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), matching the content licensing of the parent project. See [LICENSE](LICENSE).
