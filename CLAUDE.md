@@ -15,6 +15,8 @@ Content on the site sits in one of two stages:
 
 Naming and framing draw on Christopher Alexander's *A Pattern Language* and *The Nature of Order*: content **unfolds** through piecemeal growth and structure-preserving transformations until it reaches a stable shape. Only then can it be made **legible**. The two-stage model gives in-progress thinking a venue without diluting the standard of mature practice.
 
+**Promotion principle: fork, don't rewrite.** When a note earns its way to a later-stage page (patterns, legible), the original note stays in place as the archaeological record of how the observation first arrived. The later-stage page is a fresh distillation that references the note as origin, not a rewrite of it. This preserves the roughness that makes notes useful for future pattern-finding, and avoids the temptation to smooth away the incident-specific texture that makes the original observation legible. No mechanism is built for promotion yet — the first real promotion will drive the shape of that mechanism.
+
 ## Content structure
 
 - `index.md` — home page
@@ -28,7 +30,7 @@ Each note is written so a reader who does not know the source project can still 
 Each note in `notes/` follows a consistent shape:
 
 - **Filename:** `notes/YYYY-MM-DD-slug.md`. Date is the note's authored date; slug is kebab-case.
-- **Frontmatter:** `layout: page`, quoted `title`, `date`, `status`, and `format` (one of `summary`, `explainer`, `dialogue` — extend only when a new shape genuinely does not fit). Add `related:` (a list of other note filenames) or `sources:` (a list of URLs) where appropriate.
+- **Frontmatter:** `layout: page`, quoted `title`, `date`, `status`, and `format` (one of `summary`, `explainer`, `dialogue` — extend only when a new shape genuinely does not fit). Optional: `related:` (a list of other note filenames), `sources:` (a list of URLs), `tags:` (a list of short topic keywords; no tag-navigation page yet, but the field is there so clustering can happen later without restructuring).
 - **Index:** every new note adds a bullet to `notes/index.md`, newest last, with a one-line hook.
 
 ## Relationship to tdf26
