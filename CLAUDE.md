@@ -20,7 +20,7 @@ Naming and framing draw on Christopher Alexander's *A Pattern Language* and *The
 ## Content structure
 
 - `index.md` — home page
-- `five-goals.md`, `work-loops.md`, `pr-workflow.md` — framework pages, drafts that are filled in as the patterns unfold
+- `framework/` — framework pages (`five-goals.md`, `work-loops.md`, `pr-workflow.md`) and their landing index, drafts that are filled in as the patterns unfold
 - `notes/` — individual note entries, each a distillation of a single practice or observation, grounded in observed incidents from consuming projects
 
 Each note is written so a reader who does not know the source project can still apply the pattern. When a note references a motivating incident, the incident is summarised in enough detail to be legible but the source project is not assumed knowledge.

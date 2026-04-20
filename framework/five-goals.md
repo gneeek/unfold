@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Five goals
-permalink: /five-goals/
+permalink: /framework/five-goals/
 ---
 
 # Five goals

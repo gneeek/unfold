@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PR workflow
-permalink: /pr-workflow/
+permalink: /framework/pr-workflow/
 ---
 
 # PR workflow
