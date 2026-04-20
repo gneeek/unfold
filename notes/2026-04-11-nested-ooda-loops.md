@@ -30,7 +30,7 @@ The whole cycle is meant to be a fast OODA loop. Inside each step, a smaller loc
 
 ## Reconciling three framings
 
-Before the nested observation, tdf26 had three framings for its work: *retro → plan → sprint*, a set of [three work loops](/unfold/work-loops/) (problem selection, solution exploration, delivery choices), and a general claim that we try to run *fast OODA loops*. These three framings overlapped enough to be confusing and diverged enough to be actually different things.
+Before the nested observation, tdf26 had three framings for its work: *retro → plan → sprint*, a set of [three work loops](/unfold/framework/work-loops/) (problem selection, solution exploration, delivery choices), and a general claim that we try to run *fast OODA loops*. These three framings overlapped enough to be confusing and diverged enough to be actually different things.
 
 The nested reading reconciles them. The three work loops are three internal OODA loops running at different scales. Retro-plan-sprint is one specific timescale of that loop. The fast-OODA claim is what the whole structure is trying to be. Three views of the same recursive pattern.
 

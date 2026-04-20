@@ -4,3 +4,7 @@ baseurl: "/unfold"
 url: "https://gneeek.github.io"
 theme: minima
 permalink: pretty
+
+header_pages:
+  - framework/index.md
+  - notes/index.md

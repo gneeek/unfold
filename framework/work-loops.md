@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Three work loops
-permalink: /work-loops/
+permalink: /framework/work-loops/
 ---
 
 # Three work loops

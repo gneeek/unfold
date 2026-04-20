@@ -23,9 +23,7 @@ Two principles carry most of the weight right now. More will be added as they ea
 
 The pages below are drafts. Each will be filled in as the patterns unfold.
 
-- [Five goals](/unfold/five-goals/) - the priority framework we use to decide what matters *(draft)*
-- [Three work loops](/unfold/work-loops/) - problem selection, solution exploration, delivery choices *(draft)*
-- [PR workflow](/unfold/pr-workflow/) - small-batch PRs for low-throughput projects *(draft)*
+- [Framework](/unfold/framework/) — the five goals, three work loops, and PR workflow that shape how this project runs *(drafts)*
 
 For reflective writing about the practice itself, retrospectives, dialogues, and explainers of how the tools actually work, see [notes](/unfold/notes/).
 
