@@ -7,6 +7,10 @@ format: summary
 related:
   - 2026-04-11-nested-ooda-loops.md
   - 2026-04-10-personas-vs-subagents.md
+tags:
+  - git
+  - session-management
+  - claude-code
 ---
 
 # Parallel branches, parallel sessions

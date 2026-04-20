@@ -8,6 +8,9 @@ sources:
   - https://www.oreilly.com/library/view/lean-software-development/0321150783/
 related:
   - 2026-04-20-ceremonies-on-the-ooda-loop.md
+tags:
+  - decision-making
+  - permanence
 ---
 
 # The last responsible moment under a permanence rule

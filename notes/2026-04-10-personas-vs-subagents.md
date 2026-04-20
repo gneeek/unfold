@@ -6,6 +6,10 @@ status: published
 format: explainer
 related:
   - 2026-04-10-agent-ownership-and-names.md
+tags:
+  - claude-code
+  - personas
+  - subagents
 ---
 
 # Personas versus subagents
