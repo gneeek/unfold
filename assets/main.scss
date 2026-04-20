@@ -1,0 +1,17 @@
+---
+---
+
+// Variable overrides for minima. Declared before @import so minima's
+// !default-flagged declarations pick these up. Variables only — no
+// post-import rule overrides, to keep the risk surface small.
+
+$base-font-size:    17px;
+$base-line-height:  1.65;
+
+$text-color:        #2c2a27;
+$background-color:  #fbfaf7;
+$brand-color:       #596876;
+
+$content-width:     720px;
+
+@import "minima";
