@@ -6,6 +6,9 @@ status: published
 format: summary
 related:
   - 2026-04-10-harness-engineering-dialogue.md
+tags:
+  - agent-ownership
+  - personas
 ---
 
 # Agent ownership and the naming of Piers and Tully

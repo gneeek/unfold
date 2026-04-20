@@ -7,6 +7,9 @@ format: summary
 related:
   - 2026-04-20-hygiene-and-retrospective.md
   - 2026-04-11-parallel-branches-parallel-sessions.md
+tags:
+  - hygiene
+  - session-management
 ---
 
 # Deliberate session-end at workstream seams

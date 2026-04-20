@@ -6,6 +6,9 @@ status: published
 format: summary
 related:
   - 2026-04-10-agent-ownership-and-names.md
+tags:
+  - ooda
+  - ceremonies
 ---
 
 # Loops inside loops: OODA at multiple scales

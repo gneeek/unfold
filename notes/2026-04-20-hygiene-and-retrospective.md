@@ -7,6 +7,10 @@ format: summary
 related:
   - 2026-04-20-git-status-as-load-bearing-signal.md
   - 2026-04-20-session-end-at-seams.md
+tags:
+  - hygiene
+  - retrospective
+  - ceremonies
 ---
 
 # Hygiene and retrospective: different mechanisms

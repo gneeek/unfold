@@ -9,6 +9,9 @@ sources:
   - https://openai.com/index/harness-engineering/
   - https://github.com/openai/symphony
   - https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html
+tags:
+  - harness-engineering
+  - claude-code
 ---
 
 # Two Perspectives on Harness Engineering in TDF26

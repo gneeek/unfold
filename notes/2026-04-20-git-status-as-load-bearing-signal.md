@@ -6,6 +6,9 @@ status: published
 format: summary
 related:
   - 2026-04-20-hygiene-and-retrospective.md
+tags:
+  - git
+  - hygiene
 ---
 
 # Keeping `git status` load-bearing

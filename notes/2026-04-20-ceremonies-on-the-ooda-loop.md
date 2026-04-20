@@ -6,6 +6,10 @@ status: published
 format: summary
 related:
   - 2026-04-11-nested-ooda-loops.md
+tags:
+  - ooda
+  - ceremonies
+  - retrospective
 ---
 
 # Ceremonies on the OODA loop: retro, planning, sprint
