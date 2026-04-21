@@ -6,7 +6,7 @@ permalink: /tags/
 
 A clustering view of the notes. Every note is tagged with one or more short topic keywords — the sections below group notes by tag so adjacent observations live near each other. There is no formal taxonomy; tags are added as they arise, and the list will grow and shift as more notes accumulate.
 
-{% assign notes = site.pages | where: "dir", "/notes/" | where_exp: "p", "p.date != nil" %}
+{% assign notes = site.pages | where_exp: "p", "p.path contains 'notes/'" | where_exp: "p", "p.date != nil" %}
 {% assign all_tags = "" | split: "" %}
 {% for note in notes %}
   {% assign all_tags = all_tags | concat: note.tags %}
