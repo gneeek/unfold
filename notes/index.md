@@ -6,7 +6,7 @@ permalink: /notes/
 
 Reflective writing about the practice itself. Retrospectives, dialogues, explainers of how the tools actually work, and other working notes that do not yet fit on a principles page.
 
-Subscribe via [RSS feed]({{ site.baseurl }}/notes/feed.xml).
+Subscribe via [RSS feed]({{ site.baseurl }}/notes/feed.xml). Browse by [tag]({{ site.baseurl }}/tags/).
 
 - **[Hygiene and retrospective: different mechanisms](/unfold/notes/2026-04-20-hygiene-and-retrospective/)** (2026-04-20). Hygiene checks run before an action and verify state; retrospectives run after and capture learning. When something goes wrong the useful question is whether the fix is verifying-shaped or learning-shaped — retros cannot fix a hygiene-shaped problem.
 - **[Keeping `git status` load-bearing](/unfold/notes/2026-04-20-git-status-as-load-bearing-signal/)** (2026-04-20). `git status` is a signal with a signal-to-noise ratio. The fix is not more careful reading; it is `.gitignore` curation as recurring hygiene, so every untracked file either gets committed soon or disappears from the signal entirely.
