@@ -11,7 +11,7 @@ permalink: /notes/feed.xml
   <atom:link href="{{ site.url }}{{ site.baseurl }}/notes/feed.xml" rel="self" type="application/rss+xml" />
   <language>en</language>
   <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-{% assign notes = site.pages | where: "dir", "/notes/" | where_exp: "p", "p.date != nil" | sort: "date" | reverse %}
+{% assign notes = site.pages | where_exp: "p", "p.path contains 'notes/'" | where_exp: "p", "p.date != nil" | sort: "date" | reverse %}
 {% for note in notes %}
   <item>
     <title>{{ note.title | escape }}</title>
