@@ -44,6 +44,8 @@ The retro-plan-sprint ceremony cadence is one specific timescale of this pattern
 
 ## Origin
 
+The three-loops framing is inspired by Marty Cagan's **product operating model**, as written up by [Silicon Valley Product Group](https://www.svpg.com/). SVPG's treatment of product discovery and delivery as distinct modes, and its emphasis on problem selection as its own concern, shaped the decomposition used here. The OODA overlay and the ceremony-cadence mapping are this project's additions.
+
 This framework was implicit in the project for some time before it was named. Two notes in the working material preceded and shaped this page:
 
 - [Loops inside loops: OODA at multiple scales](/unfold/notes/2026-04-11-nested-ooda-loops/) — the observation that the project's reflective practice runs OODA at several nested scales at once, and that the three-loops framing and retro-plan-sprint are two views of that nested structure.
