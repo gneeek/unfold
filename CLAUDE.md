@@ -6,6 +6,31 @@ unfold is a working collection of notes, dialogues, and patterns from a practice
 
 Self-description from `index.md`: *"This site is for practices that reveal their shape by being built. Each note is an attempt to describe something only after doing it, not before."*
 
+## Project goal and measure
+
+unfold develops the practice of pairing with coding agents. The work is to **observe** (own work, and others' published practice — e.g. mattpocock-skills, the Claude Code skills marketplaces, other practitioners' repos), **orient** those observations against prior learning, and **decide** what folds into practice. The **act** of applying those decisions belongs to other projects, and to the future companion site `legible`.
+
+In OODA terms: unfold sits at orient/decide; legible will sit at act. A captured observation in unfold is in-progress until it folds into another project, a skill, a hook, a memory entry, or a new convention — at which point the OODA loop closes.
+
+The audience layering follows from this: *Justin's own future-self on subsequent projects (primary)*, *other practitioners trying similar work (secondary)*, and *coding agents that need a clear map of what we believe and why (tertiary)*. Transferability tests with other people belong to `legible`, not unfold.
+
+### Measure of progress
+
+The measure is not note count, queue:promotion ratio, or capture rate. Those optimise for capture without fold. The measure is two-tier:
+
+1. **Capture quality.** Was the observation captured at the right grain, with clear unlock criteria? A well-captured observation can sit until the right moment without going stale; a poorly-captured one cannot fold cleanly.
+2. **Fold events.** A *fold event* is the closure of the OODA loop: an unfold artefact (note, candidate, memory entry, ceremony observation) shaped a decision in another project, a skill, a hook, a setup step, or a convention. Each fold is a discrete unit of progress with a one-line description.
+
+Weighting is **asymmetric** by design:
+
+- *Failure-to-fold* evidence is the strongest signal — a re-discovery that should have been prevented; a captured pattern ignored when it should have applied; a downstream project blocked because the unfold-side artefact didn't exist. Retros attend to these first.
+- Explicit successful adoption is a weak signal — it might be real or facile. Note it; don't over-weight.
+- *Silent folds* are best but invisible by design. A technique that just works does not get celebrated. The measure accepts this as unmeasurable rather than building elaborate tracking.
+
+The retro lens shifts accordingly: "what failed to fold this cycle? what fold did we silently absorb?" displaces "how many notes did we publish?"
+
+Terminology resolutions live in `CONTEXT.md`; the decision record for this framing is `docs/adr/0001-unfold-role-and-measure.md`.
+
 ## Two-stage publishing model
 
 Content on the site sits in one of two stages:
